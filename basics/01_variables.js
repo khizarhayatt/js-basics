@@ -1,3 +1,5 @@
+// 
+
 const accountId =5456456
 // const accountId =123  const cant be declare with same name
 let accountEmail= "mharloop@gmail.com"
